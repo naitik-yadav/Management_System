@@ -2,7 +2,6 @@ asgiref==3.2.10
 Django==3.0.7
 django-extensions==3.0.2
 graphviz==0.14
-gunicorn==23.0.0
 mysql-connector-python==8.0.20
 packaging==24.1
 protobuf==3.12.2
