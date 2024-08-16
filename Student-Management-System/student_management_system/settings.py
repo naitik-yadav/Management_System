@@ -14,7 +14,7 @@ SECRET_KEY = '(i#*06f#keydy_fh17bf=$0f6v)^wr^l7*u4gq42m*sztu#2_m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["Naitik2000.pythonanywhere.com", "localhost"]
+ALLOWED_HOSTS = ["naitik-management-system-bice.vercel.app", "localhost"]
 
 
 # Application definition
